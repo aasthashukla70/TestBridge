@@ -48,6 +48,6 @@ TestBridge is an advanced online examination and assessment platform designed to
 
 - AI-based cheating prevention (proctoring).
 
--Real-time notifications for exam results.
+- Real-time notifications for exam results.
 
--Automatic grading for descriptive answers.
+- Automatic grading for descriptive answers.
